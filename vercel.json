@@ -6,7 +6,7 @@
 		},
 		{
 			"source": "/:path*",
-			"destination": "https://monogram.io"
+			"destination": "https://monogram.io/:path*"
 		}
 	]
 }
